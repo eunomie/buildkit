@@ -26,7 +26,7 @@ require (
 	github.com/godbus/dbus v4.1.0+incompatible // indirect
 	github.com/gofrs/flock v0.7.0
 	github.com/gogo/googleapis v1.1.0
-	github.com/gogo/protobuf v1.2.0
+	github.com/gogo/protobuf v1.2.1
 	github.com/golang/protobuf v1.2.0
 	github.com/google/go-cmp v0.2.0
 	github.com/google/shlex v0.0.0-20150127133951-6f45313302b9
